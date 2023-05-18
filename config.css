@@ -9,5 +9,8 @@ html,
 body {
     font-size: 10px;
     font-family: 'Reem Kufi', sans-serif;
+    overflow: hidden;
+      
+      
 
 }
